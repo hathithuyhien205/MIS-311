@@ -18,11 +18,13 @@ To ensure analytical rigor and prevent model distortion:
 ## 3. Descriptive Statistics Analysis
 To summarize the central tendency, dispersion, and distribution morphology of the student performance metrics, descriptive statistics were calculated for all numerical variables ($N = 199$).
 TABLE 1. Summary Statistics of Academic Scores
+
 <img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/efe41523-104b-4a36-a9c6-958b51efdf7c" />
 ## 4. Visualizations & Analytical Findings
 ### Finding 1: Socio-Academic Inheritance and Parental Educational Capital
 
 FIGURE 1. Average Student Score by Parental Education Level
+
 <img width="708" height="465" alt="image" src="https://github.com/user-attachments/assets/ec4454b3-d8d4-4899-9410-9ff84e2b10cd" />
 #### Analytical Insight
 The empirical evidence displayed in **Figure 1** indicates a positive monotonic relationship between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
