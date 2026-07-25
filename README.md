@@ -2,6 +2,7 @@
 ## 1. Executive Summary & Background
 Academic performance metrics serve as leading indicators for educational institutions to evaluate learning efficacy, identify systemic equity gaps, and optimize resource allocation. Similar to business analytics applications, early detection of academic disparities enables administrators to implement targeted interventions before student outcomes deteriorate.
 This report analyzes student evaluation data across three core disciplines—Mathematics, Reading, and Writing—to identify structural patterns, evaluate the impact of parental educational attainment, and uncover gender-based performance gaps. The goal is to derive actionable, data-driven recommendations for curriculum design and student support programs.
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/28d8b376-618c-470a-a40e-2e435e1286c3" />
 
 ## 2. Data Overview & Data Cleaning Methodology
@@ -17,23 +18,28 @@ To ensure analytical rigor and prevent model distortion:
 3. **Feature Engineering:** Constructed composite variables `total_score` and `average_score` to measure cumulative academic competence across subject domains.
 ## 3. Descriptive Statistics Analysis
 To summarize the central tendency, dispersion, and distribution morphology of the student performance metrics, descriptive statistics were calculated for all numerical variables ($N = 199$).
-TABLE 1. Summary Statistics of Academic Scores
+**TABLE 1. Summary Statistics of Academic Scores**
 
 <img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/efe41523-104b-4a36-a9c6-958b51efdf7c" />
+
 ## 4. Visualizations & Analytical Findings
 ### Finding 1: Socio-Academic Inheritance and Parental Educational Capital
 
-FIGURE 1. Average Student Score by Parental Education Level
+**FIGURE 1. Average Student Score by Parental Education Level**
 
 <img width="708" height="465" alt="image" src="https://github.com/user-attachments/assets/ec4454b3-d8d4-4899-9410-9ff84e2b10cd" />
+
 #### Analytical Insight
 The empirical evidence displayed in **Figure 1** indicates a positive monotonic relationship between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
 #### Strategic Implication
 To mitigate this intergenerational equity gap, institution leaders must avoid generic interventions. Instead, schools should establish structured peer-mentoring frameworks and dedicated counseling programs specifically targeted at supporting first-generation students or those coming from lower educational attainment backgrounds.
+
 ### Finding 2: Asymmetric Domain Specialization Across Gender
 
-FIGURE 2. Academic Performance Disparity by Gender Across Subjects
+**FIGURE 2. Academic Performance Disparity by Gender Across Subjects**
+
 <img width="626" height="424" alt="image" src="https://github.com/user-attachments/assets/a620ee1d-05bf-4517-9d47-ca25efae720f" />
+
 #### Analytical Insight
 A structural divergence emerges when evaluating performance by subject domain across gender groups. As depicted in **Figure 2**, female students demonstrate strong proficiency in linguistic disciplines, outperforming males in Reading (72.45 vs. 62.85) and Writing (71.90 vs. 60.89). Conversely, male students exhibit a slight quantitative advantage in Mathematics (64.86 vs. 63.57). This gap reflects early educational socialization and subject-specific self-efficacy variances rather than underlying cognitive limitations.
 
