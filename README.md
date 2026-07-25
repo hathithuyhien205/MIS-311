@@ -18,6 +18,7 @@ To ensure analytical rigor and prevent model distortion:
 3. **Feature Engineering:** Constructed composite variables `total_score` and `average_score` to measure cumulative academic competence across subject domains.
 ## 3. Descriptive Statistics Analysis
 To summarize the central tendency, dispersion, and distribution morphology of the student performance metrics, descriptive statistics were calculated for all numerical variables ($N = 199$).
+
 **TABLE 1. Summary Statistics of Academic Scores**
 
 <img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/efe41523-104b-4a36-a9c6-958b51efdf7c" />
