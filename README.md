@@ -1,2 +1,2 @@
-# MIS-311
+# MIS311
 Applying business analytics and data visualization to analyze business processes, drive insights, and support strategic decision-making.
