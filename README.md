@@ -12,6 +12,7 @@ The analysis utilizes a structured dataset evaluating student academic results a
 - **Performance Metrics:** `math_score`, `reading_score`, `writing_score`
 ### Data Preparation & Cleaning
 Dataset includes 202 rows and 8 columns
+
 To ensure analytical rigor and prevent model distortion:
 1. **Deduplication:** Identified and removed 3 exact duplicate rows, adjusting the total dataset size from 202 to 199 unique student records.
 2. **Missing Value Imputation:** Handled incomplete entries in `parental_level_of_education` under a controlled category (`unknown`) to retain full statistical power without distorting variance.
