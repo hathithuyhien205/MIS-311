@@ -1,4 +1,5 @@
-# Case Study Report: Student Academic Performance & Demographic Analysis
+# Case Study Report: 
+# Student Academic Performance & Demographic Analysis
 ## 1. Executive Summary & Background
 Academic performance metrics serve as leading indicators for educational institutions to evaluate learning efficacy, identify systemic equity gaps, and optimize resource allocation. Similar to business analytics applications, early detection of academic disparities enables administrators to implement targeted interventions before student outcomes deteriorate.
 This report analyzes student evaluation data across three core disciplines: Mathematics, Reading, and Writing to identify structural patterns, evaluate the impact of parental educational attainment, and uncover gender-based performance gaps. The goal is to derive actionable, data-driven recommendations for curriculum design and student support programs.
