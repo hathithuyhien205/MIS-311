@@ -61,7 +61,8 @@ Educational administrators should transition from uniform teaching methodologies
 
 
 #### Analytical Insight
-To ensure statistical rigor, outliers are identified using the Interquartile Range (IQR) method ($\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$):
+To ensure statistical rigor, outliers are identified using the Interquartile Range (IQR) method 
+($\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$):
 
 | Subject | Q1 | Q3 | IQR | Lower Bound | Outliers Found |
 | :--- | :---: | :---: | :---: | :---: | :---: |
