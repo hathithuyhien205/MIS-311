@@ -53,10 +53,27 @@ A structural divergence emerges when evaluating performance by subject domain ac
 #### Strategic Implication
 Educational administrators should transition from uniform teaching methodologies toward tailored skill building tracks. Implementing quantitative acceleration workshops for female students alongside structured literacy remediation programs for male students will ensure balanced competency growth across all core disciplines.
 
+### Finding 3: Score Variance & Outlier Concentration (Box Plot Analysis)
+
+**FIGURE 3**. Score Distribution Across Subjects 
+
+<img width="784" height="478" alt="image" src="https://github.com/user-attachments/assets/f3c8b540-e85d-4dc2-98fe-79d84da51d7e" />
+
+
+#### Analytical Insight
+The score distribution reveals distinct variance patterns across subject domains:
+* Math Vulnerability: Mathematics displays the highest vulnerability at the lower bound, featuring 4 extreme low-end outliers (ranging from 0 to 27 points). This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
+* Reading & Writing Consistency: Both Reading and Writing exhibit tighter Interquartile Ranges (IQR) with only 1 low-end outlier each (17 points for Reading and 10 points for Writing), reflecting greater overall score stability across the student population.
+
+#### Strategic Implication
+Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics. Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
+
 ---
 
 ## 5. Conclusion & Actionable Recommendations
 
-Student academic performance is heavily conditioned by both socio-economic background and domain-specific learning preferences. Based on the analytical findings, educational leaders should execute two strategic initiatives:
-1. **Targeted Equity Programs:** Allocate supplemental academic counseling resources to students whose parents lack higher education credentials.
-2. **Customized Academic Intervention:** Shift from a one-size-fits-all curriculum to personalized learning tracks addressing verbal development in male students and quantitative mastery in female students.
+Student academic performance is heavily conditioned by socio-economic background, gender-based domain preferences, and individual variance in quantitative comprehension. Based on the empirical findings, educational leaders should execute three strategic initiatives:
+
+1. **Targeted Equity Programs**: Allocate supplemental academic counseling and structured peer-mentoring resources to students whose parents lack higher education credentials to bridge the socio-academic gap.
+2. **Customized Academic Intervention**: Shift from a one-size-fits-all curriculum to personalized skill-building tracks, focusing on literacy remediation for male students and quantitative strengthening for female students.
+3. **Mathematics Outlier Prevention (Early Warning System)**: Establish early diagnostic assessments in Mathematics to provide timely remedial support for at-risk students before they slip into extreme low-performing outlier categories.
