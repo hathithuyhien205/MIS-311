@@ -53,7 +53,7 @@ A structural divergence emerges when evaluating performance by subject domain ac
 #### Strategic Implication
 Educational administrators should transition from uniform teaching methodologies toward tailored skill building tracks. Implementing quantitative acceleration workshops for female students alongside structured literacy remediation programs for male students will ensure balanced competency growth across all core disciplines.
 
-### Finding 3: Score Variance & Outlier Concentration (Box Plot Analysis)
+### Finding 3: Score Variance & Outlier Concentration 
 
 **FIGURE 3. Score Distribution Across Subjects** 
 
