@@ -61,9 +61,18 @@ Educational administrators should transition from uniform teaching methodologies
 
 
 #### Analytical Insight
-The score distribution reveals distinct variance patterns across subject domains:
-* Math Vulnerability: Mathematics displays the highest vulnerability at the lower bound, featuring 3 extreme low-end outliers below 22.5 points (0, 18, and 22), with a total of 4 students scoring under 30 points. This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
-* Reading & Writing Consistency: Both Reading and Writing exhibit tighter Interquartile Ranges (IQR) with only 1 low end outlier each ( around 17 points for Reading and around 10 points for Writing), reflecting greater overall score stability across the student population.
+To ensure statistical rigor, outliers are identified using the standard Interquartile Range (IQR) method, where $\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$:
+
+| Subject | Q1 (25th %) | Q3 (75th %) | IQR ($Q3 - Q1$) | Lower Bound ($Q1 - 1.5 \times \text{IQR}$) | Outliers Found |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Mathematics** | 54.0 | 75.0 | 21.0 | **22.5** | 3 scores (0, 18, 22) |
+| **Reading** | 55.5 | 79.0 | 23.5 | **20.25** | 1 score (17) |
+| **Writing** | 55.0 | 78.0 | 23.0 | **20.5** | 1 score (10) |
+
+Based on these statistical thresholds, the score distribution reveals distinct variance patterns across subject domains:
+
+* **Math Vulnerability:** Mathematics displays the highest vulnerability at the lower bound, featuring **3 statistical low-end outliers below 22.5 points (0, 18, and 22)**, with a total of 4 students scoring under 30 points (including a score of 27). This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
+* **Reading & Writing Consistency:** Both Reading and Writing exhibit greater overall score stability across the student population, each featuring only **1 statistical low-end outlier below their respective thresholds** (a single score of 17 in Reading, below 20.25; and a score of 10 in Writing, below 20.5).
 
 #### Strategic Implication
 Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics. Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
