@@ -38,7 +38,7 @@ To summarize the central tendency, dispersion, and distribution morphology of th
 #### Analytical Insight
 The empirical evidence displayed in **Figure 1** indicates a positive monotonic relationship between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
 #### Strategic Implication
-To mitigate this intergenerational equity gap, institution leaders must avoid generic interventions. Instead, schools should establish structured peer-mentoring frameworks and dedicated counseling programs specifically targeted at supporting first-generation students or those coming from lower educational attainment backgrounds.
+To mitigate this intergenerational equity gap, institution leaders must avoid generic interventions. Instead, schools should establish structured peer-mentoring frameworks and dedicated counseling programs specifically targeted at supporting first generation students or those coming from lower educational attainment backgrounds.
 
 ### Finding 2: Asymmetric Domain Specialization Across Gender
 
@@ -47,10 +47,10 @@ To mitigate this intergenerational equity gap, institution leaders must avoid ge
 <img width="626" height="424" alt="image" src="https://github.com/user-attachments/assets/a620ee1d-05bf-4517-9d47-ca25efae720f" />
 
 #### Analytical Insight
-A structural divergence emerges when evaluating performance by subject domain across gender groups. As depicted in **Figure 2**, female students demonstrate strong proficiency in linguistic disciplines, outperforming males in Reading (72.45 vs. 62.85) and Writing (71.90 vs. 60.89). Conversely, male students exhibit a slight quantitative advantage in Mathematics (64.86 vs. 63.57). This gap reflects early educational socialization and subject-specific self-efficacy variances rather than underlying cognitive limitations.
+A structural divergence emerges when evaluating performance by subject domain across gender groups. As depicted in **Figure 2**, female students demonstrate strong proficiency in linguistic disciplines, outperforming males in Reading (72.45 vs. 62.85) and Writing (71.90 vs. 60.89). Conversely, male students exhibit a slight quantitative advantage in Mathematics (64.86 vs. 63.57). This gap reflects early educational socialization and subject specific self efficacy variances rather than underlying cognitive limitations.
 
 #### Strategic Implication
-Educational administrators should transition from uniform teaching methodologies toward tailored skill-building tracks. Implementing quantitative acceleration workshops for female students alongside structured literacy remediation programs for male students will ensure balanced competency growth across all core disciplines.
+Educational administrators should transition from uniform teaching methodologies toward tailored skill building tracks. Implementing quantitative acceleration workshops for female students alongside structured literacy remediation programs for male students will ensure balanced competency growth across all core disciplines.
 
 ---
 
