@@ -7,7 +7,7 @@ This report analyzes student evaluation data across three core disciplines: Math
 
 ## 2. Data Overview & Data Cleaning Methodology
 ### Data Overview
-The analysis utilizes a structured dataset evaluating student academic results across various demographic and socio-economic attributes. The primary variables include:
+The analysis utilizes a structured dataset evaluating student academic results across various demographic and social economic attributes. The primary variables include:
 - **Demographics:** `gender`, `race_ethnicity`, `parental_level_of_education`
 - **Performance Metrics:** `math_score`, `reading_score`, `writing_score`
 ### Data Preparation & Cleaning
