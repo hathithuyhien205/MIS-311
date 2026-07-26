@@ -61,9 +61,9 @@ Educational administrators should transition from uniform teaching methodologies
 
 
 #### Analytical Insight
-To ensure statistical rigor, outliers are identified using the standard Interquartile Range (IQR) method, where $\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$:
+To ensure statistical rigor, outliers are identified using the Interquartile Range (IQR) method ($\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$):
 
-| Subject | Q1(25th %) | Q3(75th %) | IQR($Q3 - Q1$) | Lower Bound($Q1 - 1.5 \times \text{IQR}$) | Outliers Found |
+| Subject | Q1 | Q3 | IQR | Lower Bound | Outliers Found |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Mathematics** | 54.0 | 75.0 | 21.0 | **22.5** | 3 scores (0, 18, 22) |
 | **Reading** | 55.5 | 79.0 | 23.5 | **20.25** | 1 score (17) |
@@ -71,8 +71,8 @@ To ensure statistical rigor, outliers are identified using the standard Interqua
 
 Based on these statistical thresholds, the score distribution reveals distinct variance patterns across subject domains:
 
-* **Math Vulnerability:** Mathematics displays the highest vulnerability at the lower bound, featuring **3 statistical low-end outliers below 22.5 points (0, 18, and 22)**, with a total of 4 students scoring under 30 points (including a score of 27). This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
-* **Reading & Writing Consistency:** Both Reading and Writing exhibit greater overall score stability across the student population, each featuring only **1 statistical low-end outlier below their respective thresholds** (a single score of 17 in Reading, below 20.25; and a score of 10 in Writing, below 20.5).
+* **Math Vulnerability:** Mathematics displays the highest vulnerability at the lower bound, containing all 3 extreme statistical outliers alongside an additional low scorer (27 points). This indicates a severe learning gap isolated within a small subgroup of struggling students, rather than a cohort-wide issue.
+* **Reading & Writing Consistency:** Both Reading and Writing demonstrate high overall score stability, featuring only a single extreme low-end outlier each.
 
 #### Strategic Implication
 Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics. Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
