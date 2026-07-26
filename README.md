@@ -63,7 +63,7 @@ Educational administrators should transition from uniform teaching methodologies
 #### Analytical Insight
 To ensure statistical rigor, outliers are identified using the standard Interquartile Range (IQR) method, where $\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$:
 
-| Subject | Q1 (25th %) | Q3 (75th %) | IQR ($Q3 - Q1$) | Lower Bound ($Q1 - 1.5 \times \text{IQR}$) | Outliers Found |
+| Subject | Q1(25th %) | Q3(75th %) | IQR($Q3 - Q1$) | Lower Bound($Q1 - 1.5 \times \text{IQR}$) | Outliers Found |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Mathematics** | 54.0 | 75.0 | 21.0 | **22.5** | 3 scores (0, 18, 22) |
 | **Reading** | 55.5 | 79.0 | 23.5 | **20.25** | 1 score (17) |
