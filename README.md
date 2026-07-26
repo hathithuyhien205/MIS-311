@@ -37,7 +37,7 @@ To summarize the central tendency, dispersion, and distribution morphology of th
 <img width="708" height="465" alt="image" src="https://github.com/user-attachments/assets/ec4454b3-d8d4-4899-9410-9ff84e2b10cd" />
 
 #### Analytical Insight
-The empirical evidence displayed in **Figure 1** indicates a positive monotonic relationship between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
+The empirical evidence displayed in **Figure 1** indicates a positive correlation between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
 #### Strategic Implication
 To mitigate this intergenerational equity gap, institution leaders must avoid generic interventions. Instead, schools should establish structured peer-mentoring frameworks and dedicated counseling programs specifically targeted at supporting first generation students or those coming from lower educational attainment backgrounds.
 
@@ -62,7 +62,7 @@ Educational administrators should transition from uniform teaching methodologies
 
 #### Analytical Insight
 The score distribution reveals distinct variance patterns across subject domains:
-* Math Vulnerability: Mathematics displays the highest vulnerability at the lower bound, featuring 4 extreme low end outliers (ranging from 0 to nearly 27 points). This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
+* Math Vulnerability: Mathematics displays the highest vulnerability at the lower bound, featuring 3 extreme low-end outliers below 22.5 points (0, 18, and 22), with a total of 4 students scoring under 30 points. This highlights a severe learning gap within a small subgroup of struggling students rather than a systemic failure across the entire cohort.
 * Reading & Writing Consistency: Both Reading and Writing exhibit tighter Interquartile Ranges (IQR) with only 1 low end outlier each ( around 17 points for Reading and around 10 points for Writing), reflecting greater overall score stability across the student population.
 
 #### Strategic Implication
@@ -76,4 +76,4 @@ Student academic performance is heavily conditioned by socio-economic background
 
 - **Targeted Equity Programs**: Allocate supplemental academic counseling and structured peer-mentoring resources to students whose parents lack higher education credentials to bridge the socio-academic gap.
 -  **Customized Academic Intervention**: Shift from a one-size-fits-all curriculum to personalized skill-building tracks, focusing on literacy remediation for male students and quantitative strengthening for female students.
-- **Mathematics Outlier Prevention (Early Warning System)**: Establish early diagnostic assessments in Mathematics to provide timely remedial support for at-risk students before they slip into extreme low-performing outlier categories.
+- **Mathematics Outlier Prevention (Early Warning System)**: Establish early diagnostic assessments and a targeted Early Warning System (EWS) in Mathematics. The program should specifically monitor and support students scoring in the bottom range (< 22.5 – 30 points) to directly mitigate the severe learning gaps identified in the 3 statistical outliers (and 4 low-performing cases overall) before their academic trajectories deteriorate further.
