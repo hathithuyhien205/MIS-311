@@ -79,7 +79,6 @@ Based on these statistical thresholds, the score distribution reveals distinct v
 #### Strategic Implication
 Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics. Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
 
----
 
 ## 5. Conclusion & Actionable Recommendations
 
