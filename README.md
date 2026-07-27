@@ -4,7 +4,7 @@ Academic performance metrics serve as leading indicators for educational institu
 
 This report analyzes student evaluation data across three core disciplines: Mathematics, Reading, and Writing to identify structural patterns, evaluate the impact of parental educational attainment, and uncover gender-based performance gaps. The goal is to derive actionable, data-driven recommendations for curriculum design and student support programs.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/28d8b376-618c-470a-a40e-2e435e1286c3" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/677c3472-7521-4813-9531-c9528952b8cb" />
 
 ## 2. Data Overview & Data Cleaning Methodology
 ### Data Overview
