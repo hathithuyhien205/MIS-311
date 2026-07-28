@@ -37,7 +37,7 @@ To summarize the central tendency, dispersion, and distribution morphology of th
 <img width="708" height="465" alt="image" src="https://github.com/user-attachments/assets/ec4454b3-d8d4-4899-9410-9ff84e2b10cd" />
 
 #### Analytical Insight
-The empirical evidence displayed in **Figure 1** indicates a positive correlation between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance.
+The empirical evidence displayed in **Figure 1** indicates a positive correlation between advanced parental degree attainment and composite student achievement. Higher parental education levels serve as a proxy for greater home learning capital, structured study environments, and increased academic guidance (Coleman, 1988; Sirin, 2005).
 #### Strategic Implication
 To mitigate this intergenerational equity gap, institution leaders must avoid generic interventions. Instead, schools should establish structured peer-mentoring frameworks and dedicated counseling programs specifically targeted at supporting first generation students or those coming from lower educational attainment backgrounds.
 
@@ -48,7 +48,7 @@ To mitigate this intergenerational equity gap, institution leaders must avoid ge
 <img width="626" height="424" alt="image" src="https://github.com/user-attachments/assets/a620ee1d-05bf-4517-9d47-ca25efae720f" />
 
 #### Analytical Insight
-A structural divergence emerges when evaluating performance by subject domain across gender groups. As depicted in **Figure 2**, female students demonstrate strong proficiency in linguistic disciplines, outperforming males in Reading (72.45 vs. 62.85) and Writing (71.90 vs. 60.89). Conversely, male students exhibit a slight quantitative advantage in Mathematics (64.86 vs. 63.57). This gap reflects early educational socialization and subject specific self efficacy variances rather than underlying cognitive limitations.
+A structural divergence emerges when evaluating performance by subject domain across gender groups. As depicted in **Figure 2**, female students demonstrate strong proficiency in linguistic disciplines, outperforming males in Reading (72.45 vs. 62.85) and Writing (71.90 vs. 60.89). Conversely, male students exhibit a slight quantitative advantage in Mathematics (64.86 vs. 63.57). This gap reflects early educational socialization and subject specific self efficacy variances rather than underlying cognitive limitations (Voyer & Voyer, 2014; Duckworth & Seligman, 2006).
 
 #### Strategic Implication
 Educational administrators should transition from uniform teaching methodologies toward tailored skill building tracks. Implementing quantitative acceleration workshops for female students alongside structured literacy remediation programs for male students will ensure balanced competency growth across all core disciplines.
@@ -61,7 +61,7 @@ Educational administrators should transition from uniform teaching methodologies
 
 
 #### Analytical Insight
-To ensure statistical rigor, outliers are identified using the Interquartile Range (IQR) method 
+To ensure statistical rigor, outliers are identified using the Interquartile Range (IQR) method (Tukey, 1977) 
 
 ($\text{Lower Bound} = Q1 - 1.5 \times \text{IQR}$):
 
@@ -77,7 +77,7 @@ Based on these statistical thresholds, the score distribution reveals distinct v
 * **Reading & Writing Consistency:** Both Reading and Writing demonstrate high overall score stability, featuring only a single extreme low-end outlier each.
 
 #### Strategic Implication
-Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics. Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
+Academic support teams should implement a targeted Early Warning System (EWS) specifically for Mathematics (Allensworth & Easton, 2007). Early diagnostic tracking will allow educators to identify students falling into the bottom quartile before their scores plummet to severe outlier levels (< 30 points).
 
 
 ## 5. Conclusion & Actionable Recommendations
@@ -86,4 +86,18 @@ Student academic performance is heavily conditioned by socio-economic background
 
 - **Targeted Equity Programs**: Allocate supplemental academic counseling and structured peer-mentoring resources to students whose parents lack higher education credentials to bridge the socio-academic gap.
 -  **Customized Academic Intervention**: Shift from a one-size-fits-all curriculum to personalized skill-building tracks, focusing on literacy remediation for male students and quantitative strengthening for female students.
-- **Mathematics Outlier Prevention (Early Warning System)**: Establish early diagnostic assessments and a targeted Early Warning System (EWS) in Mathematics. The program should specifically monitor and support students scoring in the bottom range (< 22.5 – 30 points) to directly mitigate the severe learning gaps identified in the 3 statistical outliers (and 4 low-performing cases overall) before their academic trajectories deteriorate further.
+- **Mathematics Outlier Prevention (Early Warning System)**: Establish early diagnostic assessments and a targeted Early Warning System (EWS) in Mathematics (Allensworth & Easton, 2007). The program should specifically monitor and support students scoring in the bottom range (< 22.5 – 30 points) to directly mitigate the severe learning gaps identified in the 3 statistical outliers (and 4 low-performing cases overall) before their academic trajectories deteriorate further.
+
+## 6. References
+
+Allensworth, E. M., & Easton, J. Q. (2007). *What matters for student success: Developing early warning indicators for high school graduation*. Consortium on Chicago School Research.
+
+Coleman, J. S. (1988). Social capital in the creation of human capital. *American Journal of Sociology*, *94*, S95–S120. https://doi.org/10.1086/228943
+
+Duckworth, A. L., & Seligman, M. E. (2006). Self-discipline gives girls the edge: Gender in self-discipline, grades, and achievement test scores. *Journal of Educational Psychology*, *98*(1), 198–208. https://doi.org/10.1037/0022-0663.98.1.198
+
+Sirin, S. R. (2005). Socioeconomic status and academic achievement: A meta-analytic review of research. *Review of Educational Research*, *75*(3), 417–453. https://doi.org/10.3102/00346543075003417
+
+Tukey, J. W. (1977). *Exploratory data analysis*. Addison-Wesley.
+
+Voyer, D., & Voyer, S. D. (2014). Gender differences in scholastic achievement: A meta-analysis. *Psychological Bulletin*, *140*(4), 1174–1204. https://doi.org/10.1037/a0036620
