@@ -15,8 +15,8 @@ The analysis utilizes a structured dataset evaluating student academic results a
 Dataset includes 202 rows and 8 columns
 
 To ensure analytical rigor and prevent model distortion: 
-- **Deduplication:** Identified and removed **3 exact duplicate records** (specifically rows **19**, **45**, and **112** in the raw dataset, which duplicated student entries from rows **18**, **44**, and **111** respectively). This adjusted the total sample size from **202** to **199 unique student records**, ensuring no inflated variance in statistical evaluations.
-- **Missing Values:** Replaced missing data in `parental_level_of_education` (**Rows 59 and 92**) with `unknown` to maintain sample size.
+- **Deduplication:** Identified and removed 3 exact duplicate records (specifically rows 19, 45, and 112 in the raw dataset, which duplicated student entries from rows 18, 44, and 111 respectively). This adjusted the total sample size from 202 to 199 unique student records, ensuring no inflated variance in statistical evaluations.
+- **Missing Values:** Replaced missing data in `parental_level_of_education` (Rows 59 and 92) with `unknown` to maintain sample size.
 - **Feature Engineering:** Constructed composite variables `total_score` and `average_score` to measure cumulative academic competence across subject domains.
 ## 3. Descriptive Statistics Analysis
 To summarize the central tendency, dispersion, and distribution morphology of the student performance metrics, descriptive statistics were calculated for all numerical variables ($N = 199$).
